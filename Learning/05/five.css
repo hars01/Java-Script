@@ -1,0 +1,41 @@
+/* #heading {
+    color:white;
+    background-color: blue;
+}
+.head{
+    color:antiquewhite;
+    background-color: black;
+}
+body{
+    background-color: rgb(104, 194, 242);
+}
+button{
+    color: aqua;
+    background-color: blanchedalmond;
+}
+.box{
+    height: 100px;
+    width: 200px;
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aliceblue;
+} */
+
+/* Attributes
+#box{
+    height: 200px;
+    width: 180px;
+    background-color: aqua;
+    color: rgb(61, 41, 2);
+    border: 1px solid black;
+} */
+
+/* Practice 4 */
+.harsh {
+    color:red;
+}
+.newClass{
+    background-color: green;
+}
+

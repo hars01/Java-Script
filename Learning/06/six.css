@@ -1,0 +1,19 @@
+/* div{
+    height: 200px;
+    width: 180px;
+    color:rgb(227, 233, 238);
+    background-color: rgb(90, 170, 194);
+    border:2px solid blue;
+    
+} */
+
+/* Practice 1 
+Changing color through classes */
+.dark{
+    background-color: black;
+    color: aqua;
+}
+.light{
+    background-color: rgb(251, 249, 249);
+    color: rgb(82, 10, 134); 
+}
