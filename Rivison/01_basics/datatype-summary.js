@@ -53,3 +53,28 @@ function greet2() {
 greet2();
 console.log(typeof greet2);
 
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (primitive data types) vs Heap (reference data types)
+
+let myYouTubename="harsh"
+
+let anotherName=myYouTubename
+anothername="abhi"
+
+console.log(myYouTubename);
+console.log(anothername);
+
+let userOne={
+    email:"harsh@sbi.com",
+    upi:"harsh@oksbi",
+}
+console.log(userOne);
+let userTwo=userOne
+userTwo.email="abhi@sbi.com"
+
+console.log(userOne);
+console.log(userTwo);
+
