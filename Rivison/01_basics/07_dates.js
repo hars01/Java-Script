@@ -1,5 +1,5 @@
 // Dates
-
+// Ye object hota hai jo date aur time se related information store karta hai. Iske andar hum date aur time ke saath operations kar sakte hain jaise ki date ko format karna, date ko compare karna, date ko add ya subtract karna, etc.
 let myDate = new Date()
 console.log(myDate.toString());
 console.log(myDate.toDateString());
